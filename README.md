@@ -1,4 +1,4 @@
-# Electricity_Demand_and_Price_forecasting
+# Electricity_Demand_and_Price_forecasting!update
 ![image](https://github.com/ritikdhame/Electricity_Demand_and_Price_orecasting/assets/7029092/bbfbbb44-1fc0-406b-81f8-d4d2760b9030)
 
 # Objective: 
